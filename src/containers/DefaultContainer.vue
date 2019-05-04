@@ -3,8 +3,8 @@
     <AppHeader fixed>
       <SidebarToggler class="d-lg-none" display="md" mobile />
       <b-link class="navbar-brand" to="#">
-        <img class="navbar-brand-full" src="img/brand/logo.svg" width="89" height="25" alt="CoreUI Logo">
-        <img class="navbar-brand-minimized" src="img/brand/sygnet.svg" width="30" height="30" alt="CoreUI Logo">
+        <img class="navbar-brand-full" src="img/logo.png" width="89" height="25" alt="CoreUI Logo">
+        <img class="navbar-brand-minimized" src="img/logo.png" width="30" height="30" alt="COZA STORE">
       </b-link>
       <SidebarToggler class="d-md-down-none" display="lg" />
       <b-navbar-nav class="d-md-down-none">
@@ -50,12 +50,12 @@
     <TheFooter>
       <!--footer-->
       <div>
-        <a href="https://coreui.io">CoreUI</a>
-        <span class="ml-1">&copy; 2018 creativeLabs.</span>
+        <a href="https:www.epsotechsolutions.com">Epsotech solutions</a>
+        <span class="ml-1">&copy; 2019 creativeLabs.</span>
       </div>
       <div class="ml-auto">
         <span class="mr-1">Powered by</span>
-        <a href="https://coreui.io">CoreUI for Vue</a>
+        <a href="https:www.epsotechsolutions.com">Epsotech solutions</a>
       </div>
     </TheFooter>
   </div>
